@@ -1,0 +1,84 @@
+{
+  "name": "task3",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": " Уважаемые граждане! Оплачивайте свой проезд вовремя!",
+      "name_rus": "Такое объявление можно прочитать",
+      "name_eng": "Such an announcement can be read",
+      "name_idn": "Pengumuman seperti itu dapat dibaca",
+      "answer_hint": "в автобусе | in bus (eng), di bus (idn)|",
+      "hint_rus": "Если в задании два символа (!), выберите вариант ответа, в котором второе слово начинается на (А), или запомните слово (автобус).",
+      "hint_eng": "If there are two characters (!) in the task, choose the answer where the second word starts with (A), or memorize the word (автобус | bus)",
+      "hint_idn": "Jika ada dua karakter (!) dalam tugas tersebut, pilih jawaban di mana kata kedua dimulai dengan (A), atau hafalkan kata tersebut (автобус | bus)",
+      "options": ["в парке", "в автобусе", "в самолете"],
+      "answer": "в автобусе"
+    },
+    {
+      "id": 2,
+      "adv": "С 3 марта смотрите фильм о победах российских спортсменов!",
+      "name_rus": "Новый фильм снят",
+      "name_eng": "A new movie has been shot",
+      "name_idn": "Sebuah film baru telah dibuat",
+      "answer_hint": "о спорте | about sports (eng), tentang olahraga (idn)|",
+      "hint_rus": "Если в задании есть цифра 3, то выбрать ответ где второе слово начинается с (С), или запомнить (СПОРТ)",
+      "hint_eng": "If there is a number 3 in the task, then choose the answer where the second word begins with (C), or memorize (СПОРТ | SPORTS)",
+      "hint_idn": "Jika ada angka 3 dalam tugas, maka pilih jawaban di mana dunia kedua dimulai dengan (C), atau hafalkan (СПОРТ | OLAHRAGA)",
+      "options": ["о политике", "о спорте", "о музыке"],
+      "answer": "о спорте"
+    },
+    {
+      "id": 3,
+      "adv": "Осторожно: опасная зона!",
+      "name_rus": "Вы можете увидеть это объявление",
+      "name_eng": "You can see this ad",
+      "name_idn": "Anda dapat melihat iklan ini",
+      "answer_hint": "на стройке | at the construction site (eng), di lokasi konstruksi (idn)|",
+      "hint_rus": "Если в задании есть символы (: в середине, ! в конце), то выбрать ответ который начинается с (НА)",
+      "hint_eng": "If the task contains characters (: in the middle, ! at the end), then choose an answer that starts with (НА)",
+      "hint_idn": "Jika tugas berisi karakter (: di tengah,! di akhir), lalu pilih jawaban yang dimulai dengan (НА)",
+      "options": ["в ресторане", "на стройке", "в атобусе"],
+      "answer": "на стройке"
+    },
+      {
+      "id": 4,
+      "adv": "Места для инвалидов, лиц пожилого возраста и пассажиров с детьми",
+      "name_rus": "Вы можете увидеть это объявление",
+      "name_eng": "You can see this ad",
+      "name_idn": "Anda dapat melihat iklan ini",
+      "answer_hint": "в транспорте | in transport (eng), dalam transportasi (idn)|",
+      "hint_rus": "Если в задании нет символов (!), выбрать самый длинный ответ",
+      "hint_eng": "If there are no characters (!) in the task, choose the longest answer.",
+      "hint_idn": "Jika tidak ada karakter (!) dalam tugas, pilih jawaban terpanjang.",
+      "options": ["в транспорте", "в театре", "в парке"],
+      "answer": "в транспорте"
+    },
+      {
+      "id": 5,
+      "adv": "Уважаемые пассажиры! ВЫХОД К ПОЕЗДАМ в конце зала № 1.",
+      "name_rus": "Вы можете увидеть это объявление",
+      "name_eng": "You can see this ad",
+      "name_idn": "Anda dapat melihat iklan ini",
+      "answer_hint": "на вокзале | at the train station (eng), di stasiun kereta (idn)|",
+      "hint_rus": "Если в задании есть символ (№), выбрать самый длинный ответ",
+      "hint_eng": "If the task has a character (№), choose the longest answer.",
+      "hint_idn": "Jika tugas memiliki karakter (№), pilih jawaban terpanjang.",
+      "options": ["на рынке", "на вокзале", "на почте"],
+      "answer": "на вокзале"
+    },
+      {
+      "id": 6,
+      "adv": "Уважаемые пациенты! Вы можете сделать прививку только после осмотра врача.",
+      "name_rus": "Вы можете увидеть это объявление",
+      "name_eng": "You can see this ad",
+      "name_idn": "Anda dapat melihat iklan ini",
+      "answer_hint": "в поликлинике | in the clinic (eng), di klinik (idn)|",
+      "hint_rus": "Если в задании есть символы (! в середине и . в конце), выбрать самый длинный ответ",
+      "hint_eng": "If the task contains the characters (! in the middle and . at the end), choose the longest answer.",
+      "hint_idn": "Jika tugas berisi karakter (! di tengah dan . di akhir), pilih jawaban terpanjang.",
+      "options": ["в аптеке", "в поликлинике", "в музее"],
+      "answer": "в поликлинике"
+    }
+     
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "task2",
+  "tasks": [
+    {
+      "id": 1,
+      "name_rus": "Спросите о потерянных вещах",
+      "name_eng": "Ask about the lost items",
+      "name_idn": "Tanyakan tentang barang yang hilang",
+      "answer_hint": "у администратора |at the administrator (eng), di administrator (idn)|",
+      "hint_rus": "Если в ответах первое слово (У), выбрать среднее по длине предложения",
+      "hint_eng": "If the answers contain the first word (У), choose the average length of the sentence.",
+      "hint_idn": "Jika jawaban berisi kata pertama (У), pilih panjang rata-rata kalimat.",
+      "options": ["у покупателей", "у администратора", "у директора магазиная"],
+      "answer": "у администратора"
+    },
+    {
+      "id": 2,
+      "name_rus": "У администратора магазина можно",
+      "name_eng": "From the store administrator you can",
+      "name_idn": "dari administrator toko Anda dapatg",
+      "answer_hint": "взять свой потерянный телефон |Take your lost phone (eng), Ambil ponsel Anda yang hilang (idn)|",
+      "hint_rus": "Если все первые слова в ответах разные или в них нет цифр, то выберите самый длинный ответ (4 слова).",
+      "hint_eng": "If all the first words in the answers are different or there are no numbers in them, then choose the longest answer (4 words).",
+      "hint_idn": "Jika semua kata pertama dalam jawaban berbeda atau tidak ada angka di dalamnya, maka pilih jawaban terpanjang (4 kata).",
+      "options": ["взять свой потерянный телефон", "купить новый телефон", "позвонить по телефону"],
+      "answer": "взять свой потерянный телефон"
+    },
+    {
+      "id": 3,
+      "name_rus": "Теперь банк будет работать",
+      "name_eng": "Now the bank will work",
+      "name_idn": "Sekarang bank akan bekerja",
+      "answer_hint": "до 9 часов вечера | until 9 p.m. (eng), sampai jam 9 malam. (idn)|",
+      "hint_rus": "Если в ответах есть цифры 9 и 21, то выбрать ответ где есть цифра 9",
+      "hint_eng": "If there are numbers 9 and 21 in the answers, then select the answer where there is a number 9.",
+      "hint_idn": "Jika terdapat angka 9 dan 21 pada jawaban, maka pilih jawaban yang terdapat angka 9.",
+      "options": ["до 9 часов вечера", "как обычно", "до 21 мая"],
+       "answer": "до 9 часов вечерае"
+    },
+    {
+      "id": 4,
+      "name_rus": "Что сделал Антон?",
+      "name_eng": "What did Anton do?",
+      "name_idn": "Apa yang dilakukan Anton?",
+      "answer_hint": "Он дал мобильный телефон | He gave me a mobile phone (eng), Dia memberiku ponsel (idn)|",
+      "hint_rus": "Если первое слово (ОН), то выбрать самый короткий ответ",
+      "hint_eng": "If the first word is (ОН | HE), then choose the shortest answer.",
+      "hint_idn": "Jika kata pertama adalah (ОН | DIA), maka pilihlah jawaban yang paling pendek.",
+      "options": ["Он не дал мобильный телефон", "Он потерял мобильный телефон", "Он дал мобильный телефоне"],
+      "answer": "Он дал мобильный телефон"
+    },
+    {
+      "id": 5,
+      "name_rus": "В торговом центре можно пообедать",
+      "name_eng": "You can have lunch at the mall",
+      "name_idn": "Anda bisa makan siang di mall",
+      "answer_hint": "на 5 этаже | at the 5th floor (eng), di lantai 5 (idn)|",
+      "hint_rus": "Если вот всех ответах есть цифры, то выбрать ответ где есть цифра 5",
+      "hint_eng": "If all the answers have numbers, then select the answer with the number 5.",
+      "hint_idn": "Jika semua jawaban memiliki angka, maka pilih jawaban dengan angka 5.",
+      "options": ["на 6 этаже", "на 5 этаже", "на 3 этаже"],
+      "answer": "на 5 этаже"
+    },
+    {
+      "id": 6,
+      "name_rus": "В новом магазине можно купить одежду",
+      "name_eng": "You can buy clothes in the new store",
+      "name_idn": "Anda dapat membeli pakaian di toko baru",
+      "answer_hint": "для мужчин | for men (eng), untuk pria (idn)|",
+      "hint_rus": "Если все ответы начинаются со слова (ДЛЯ), то выбрать ответ где второе слово начинается с (М)",
+      "hint_eng": "If all the answers start with the word (ДЛЯ), then select the answer where the second word starts with (M)t",
+      "hint_idn": "Jika semua jawaban dimulai dengan kata (ДЛЯ), maka pilih jawaban yang kata keduanya dimulai dengan (M)",
+      "options": ["для мужчин", "для детей", "для женщин"],
+      "answer": "для мужчин"
+    }
+  ]
+}
