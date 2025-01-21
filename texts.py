@@ -1,0 +1,1 @@
+ERROR_NO_CHECK_ANSWER = 'Не выбан ответ | Jawabannya tidak dipilih'
