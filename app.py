@@ -50,17 +50,19 @@ def task5():
         with st.container(border=True, key='adv5'):
             adv = tsk["adv"]
             st.write(adv)
-        st.text_input(label='111', label_visibility='hidden', key="user_ans_5", disabled=st.session_state['task5']['disabled_task'])
+        st.text_input(label='111', label_visibility='hidden', key="inp_user_ans_5", disabled=st.session_state['task5']['disabled_task'])
         if st.checkbox('Показать подсказки', key='chb5'):
             st.markdown(f":green[{hint}]")
             st.markdown(f":green[{hint_rus}]")
             st.markdown(f":green[{hint_idn}]")
         if st.button('Ответить', icon='✅', disabled=st.session_state['task5']['disabled_task'],
                      on_click=disable_task, key='btn5'):
-            if 'user_ans_5' not in st.session_state or st.session_state['user_ans_5'] is None:
+            if 'inp_user_ans_5' not in st.session_state or st.session_state['inp_user_ans_5'] is None or \
+                    st.session_state['inp_user_ans_5'] == "":
                 st.warning(texts.ERROR_NO_CHECK_ANSWER)
             else:
-                st.session_state["user_ans_5"] = str.lower(st.session_state["user_ans_5"])
+                k = str.lower(st.session_state["inp_user_ans_5"])
+                st.session_state["user_ans_5"] = k
                 st.session_state['task5']['disabled_task'] = True
                 st.rerun()
 
@@ -115,7 +117,7 @@ def refresh_exam():
 
 
 # ---------- Начало программы -----------------
-# st.write(st.session_state)
+st.write(st.session_state)
 col1, col2 = st.columns(2)
 with col1:
     st.subheader('Экзамен для иностранных граждан', divider=True)
