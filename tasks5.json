@@ -1,0 +1,83 @@
+{
+  "name": "task5",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "Батыр приехал из Узбекистана. Батыр – строитель. \nВпишите нужное слово в анкету.\nАнкета\n1. Как Вас зовут? - Меня зовут Батыр.\n2. Откуда Вы приехали? - Я приехал из Узбекистана.\n3. Кто Вы по профессии? - Я ________________. ",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "строитель | builder (eng), pembangun (idn)|",
+      "hint_rus": "Запомнить имя (Батыр), написать последнее слово из второго предложения задания",
+      "hint_eng": "Memorize the name (Батыр), write the last word from the second sentence of the assignment",
+      "hint_idn": "Hafalkan nama (Батыр), tulis kata terakhir dari kalimat kedua tugas",
+      "options": [],
+      "answer": "строитель"
+    },
+    {
+      "id": 2,
+      "adv": "Анвар приехал из Узбекистана. Анвар – повар.\nВпишите нужное слово в анкету.\nАнкета\n1. Как Вас зовут? - Меня зовут Анвар.\n2. Откуда Вы приехали? - Я приехал из ____________________.\n3. Кто Вы по профессии? - Я повар.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "Узбекистана | Uzbekistan (eng), Uzbekistans (idn)|",
+      "hint_rus": "Запомнить имя (Анвар), написать последнее слово из первого предложения задания",
+      "hint_eng": "Memorize the name (Анвар), write the last word from the first sentence of the assignment",
+      "hint_idn": "Hafalkan nama (Анвар), tulis kata terakhir dari kalimat pertama tugas",
+      "options": [],
+      "answer": "Узбекистана"
+    },
+    {
+      "id": 3,
+      "adv": "Алишер приехал из Узбекистана. Алишер – водитель.\nВпишите нужное слово в анкету.\nАнкета\n1. Как Вас зовут? - Меня зовут Алишер.\n2. Откуда Вы приехали? - Я приехал из Узбекистана.\n3. Кто Вы по профессии? - Я _________________________.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "водитель | driver (eng), pengemudi (idn)|",
+      "hint_rus": "Запомнить имя (Алишер), написать последнее слово из второго предложения задания",
+      "hint_eng": "Memorize the name (Alisher), write the last word from the second sentence of the assignment",
+      "hint_idn": "Hafalkan nama (Alisher), tulis kata terakhir dari kalimat kedua tugas",
+      "options": [],
+      "answer": "водитель"
+    },
+    {
+      "id": 4,
+      "adv": "Муслим Ибрагимов хочет получить работу курьера.\nВпишите нужное слово в его заявление.\nЗаявление\nПрошу принять меня на работу на должность___________________________.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "курьера | courier (eng),9 kurir (idn)|",
+      "hint_rus": "Если в задании нет цифр и задание начинается на (Мух), тогда написать последнее слово первого предложения",
+      "hint_eng": "If there are no numbers in the assignment and the assignment starts with (Mух), then write the last word of the first sentence.",
+      "hint_idn": "Jika tidak ada angka dalam penugasan dan penugasan dimulai dengan (Mух), maka tulislah kata terakhir dari kalimat pertama..",
+      "options": [],
+      "answer": "курьера"
+    },
+    {
+      "id": 5,
+      "adv": "Мухаммад Турдиев со своей женой приехал в Россию. Впишите нужное слово в его анкету.\nАНКЕТА\nВозраст - 30 лет\nСемейное положение - ___________________.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "женат | married (eng), menikah (idn)|",
+      "hint_rus": "Если в задании есть цифра 30, то писать слово (женат)",
+      "hint_eng": "menikah If there is a number 30 in the assignment, then write the word (женат)",
+      "hint_idn": "menikah Jika ada angka 30 dalam tugas, maka tulislah kata (женат)",
+      "options": [],
+      "answer": "женат"
+    },
+    {
+      "id": 6,
+      "adv": "Сегодня Амина Дадаева нашла работу кассира в магазине. Впишите нужное слово в её заявление.\nЗаявление\nПрошу принять меня на должность __________________.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "кассира | cashier (eng), kasir (idn)|",
+      "hint_rus": "Если в первом предложении есть слово (кассира), то писать это слово",
+      "hint_eng": "If there is a word (cashier) in the first sentence, then write this word",
+      "hint_idn": "Jika ada kata (kasir) di kalimat pertama, maka tulislah kata ini",
+      "options": [],
+      "answer": "кассира"
+    }
+  ]
+}

@@ -36,6 +36,35 @@ def disable_task():
     pass
 
 
+def task5():
+    expander = st.expander('Задание №5')
+    with expander:
+        tsk = st.session_state['task5']
+        id = tsk['id']
+        adv = tsk["adv"]
+        hint = tsk["answer_hint"]
+        hint_rus = tsk["hint_rus"]
+        hint_eng = tsk["hint_eng"]
+        hint_idn = tsk["hint_idn"]
+        st.session_state['right_ans_5'] = tsk["answer"]
+        with st.container(border=True, key='adv5'):
+            adv = tsk["adv"]
+            st.write(adv)
+        st.text_input(label='111', label_visibility='hidden', key="user_ans_5", disabled=st.session_state['task5']['disabled_task'])
+        if st.checkbox('Показать подсказки', key='chb5'):
+            st.markdown(f":green[{hint}]")
+            st.markdown(f":green[{hint_rus}]")
+            st.markdown(f":green[{hint_idn}]")
+        if st.button('Ответить', icon='✅', disabled=st.session_state['task5']['disabled_task'],
+                     on_click=disable_task, key='btn5'):
+            if 'user_ans_5' not in st.session_state or st.session_state['user_ans_5'] is None:
+                st.warning(texts.ERROR_NO_CHECK_ANSWER)
+            else:
+                st.session_state["user_ans_5"] = str.lower(st.session_state["user_ans_5"])
+                st.session_state['task5']['disabled_task'] = True
+                st.rerun()
+
+
 # ------ Показать вопросы на экране --------------
 def show_def_tasks(number: int, adv_enable: bool = False):
     expander = st.expander(f'Задание №{number}')
@@ -100,7 +129,10 @@ show_def_tasks(2)
 st.subheader('Чтение')
 st.text('Reading skills | Keterampilan membaca')
 show_def_tasks(3, True)
-
+show_def_tasks(4, True)
+st.subheader('Письмо')
+st.text('Writing skills | Keterampilan menulis')
+task5()
 
 # ---------- Задание 1 ----------------
 # task1 = st.expander('Задание №1')
