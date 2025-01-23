@@ -117,7 +117,7 @@ def refresh_exam():
 
 
 # ---------- Начало программы -----------------
-st.write(st.session_state)
+# st.write(st.session_state)
 col1, col2 = st.columns(2)
 with col1:
     st.subheader('Экзамен для иностранных граждан', divider=True)
