@@ -1,0 +1,107 @@
+{
+  "name": "task17",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "На территории Российской Федерации в отношении иностранного гражданина совершено преступление.",
+      "name_rus": "Куда он должен обратиться за помощью?",
+      "name_eng": "Where should he turn for help?",
+      "name_idn": "Ke mana dia harus meminta bantuan?",
+      "answer_hint": "в полицию | To the police(eng) ,Ke polisi(idn) |",
+      "hint_rus": "Если ответ начинается с (в полицию), то выбрать его",
+      "hint_eng": "If the answer starts with (в полицию | to the police), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (в полицию | ke polisi), maka pilihlah",
+      "options": [
+        "в полицию",
+        "в Министерство иностранных дел Российской Федерации",
+        "в посольство своей страны"
+      ],
+      "answer": "в полицию"
+    },
+    {
+      "id": 2,
+      "adv": "Вы потеряли паспорт.",
+      "name_rus": " Куда следует обратиться?",
+      "name_eng": "Where should I apply?",
+      "name_idn": "Di mana saya harus melamar?",
+      "answer_hint": "в полицию и консульство своей страны| to the police and the consulate of your country(eng),kepada polisi dan konsulat negara Anda(idn)|",
+      "hint_rus": "Если ответ начинается с (в полицию), то выбрать его",
+      "hint_eng": "If the answer starts with (в полицию | to the police), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (в полицию | ke polisi), maka pilihlah",
+      "options": [
+        "в полицию и консульство своей страны",
+        "в суд",
+        "в отдел кадров по месту работы"
+      ],
+      "answer": "в полицию и консульство своей страны"
+    },
+    {
+      "id": 3,
+      "adv": "Имеет ли право иностранный гражданин вступить в брак на территории Российской Федерации?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "да | yes(eng), ya(idn)|",
+      "hint_rus": "Если ответ (да), то выбрать его",
+      "hint_eng": "If the answer is (да | yes), then select it",
+      "hint_idn": "Jika jawabannya (да | ya), maka pilih",
+      "options": [
+        "да",
+        "да, но только с гражданками Российской Федерации",
+        "нет"
+      ],
+      "answer": "да"
+    },
+    {
+      "id": 4,
+      "adv": "Куда следует обратиться человеку, если его ограбили?",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "в полицию | To the police(eng) ,Ke polisi(idn) |",
+      "hint_rus": "Если ответ начинается с (в полицию), то выбрать его",
+      "hint_eng": "If the answer starts with (в полицию | to the police), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (в полицию | ke polisi), maka pilihlah",
+      "options": [
+        "в полицию",
+        "в суд",
+        "в отдел кадров по месту работы"
+      ],
+      "answer": "в полицию"
+    },
+    {
+      "id": 5,
+      "adv": "Иностранному гражданину исполнилось 18 лет.",
+      "name_rus": "Может ли он осуществлять трудовую деятельность на территории Российской Федерации?",
+      "name_eng": "Can he work in the territory of the Russian Federation?",
+      "name_idn": "Bisakah dia bekerja di wilayah Federasi Rusia?",
+      "answer_hint": "да | yes(eng), ya(idn)|",
+      "hint_rus": "Если ответ (да), то выбрать его",
+      "hint_eng": "If the answer is (да | yes), then select it",
+      "hint_idn": "Jika jawabannya (да | ya), maka pilih",
+      "options": [
+        "да",
+        "нет",
+        "да, но после специального распоряжения"
+      ],
+      "answer": "да"
+    },
+    {
+      "id": 6,
+      "adv": "Иностранный гражданин решил устроиться на работу.",
+      "name_rus": "Какой договор с ним должен быть заключён?",
+      "name_eng": "What kind of contract should be concluded with him?",
+      "name_idn": "Kontrak seperti apa yang harus dibuat dengannya?",
+      "answer_hint": "трудовой| labor(eng), buruh(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "трудовой",
+        "аренды",
+        "купли-продажи"
+      ],
+      "answer": "трудовой"
+    }
+  ]
+}

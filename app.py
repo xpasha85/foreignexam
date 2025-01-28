@@ -135,34 +135,21 @@ show_def_tasks(4, True)
 st.subheader('Письмо')
 st.text('Writing skills | Keterampilan menulis')
 task5()
-
-# ---------- Задание 1 ----------------
-# task1 = st.expander('Задание №1')
-# with task1:
-#     # st.text('Они говорят')
-#     tmp_task = st.session_state['task1']
-#     task1_id = tmp_task["id"]
-#     task1_name_rus = tmp_task["name_rus"]
-#     task1_name_eng = tmp_task["name_eng"]
-#     task1_name_idn = tmp_task["name_idn"]
-#     answer_hint = tmp_task["answer_hint"]
-#     task1_hint_rus = tmp_task["hint_rus"]
-#     task1_hint_eng = tmp_task["hint_eng"]
-#     task1_hint_idn = tmp_task["hint_idn"]
-#     task1_options = tmp_task["options"]
-#     st.session_state['right_ans_1'] = tmp_task["answer"]
-#     col1, col2 = st.columns([0.3, 0.7])
-#     with col1:
-#         st.radio(task1_name_rus, task1_options, index=None, key="user_ans_1",
-#                  disabled=st.session_state['task1']['disabled_task'])
-#     with col2:
-#         if st.checkbox('Показать подсказки'):
-#             st.markdown(f":green[{answer_hint}]")
-#             st.markdown(f":green[{task1_hint_rus}]")
-#             st.markdown(f":green[{task1_hint_idn}]")
-#     if st.button('Ответить', icon='✅', disabled=st.session_state['task1']['disabled_task'], on_click=disable_task):
-#         if 'user_ans_1' not in st.session_state or st.session_state['user_ans_1'] is None:
-#             st.warning(texts.ERROR_NO_CHECK_ANSWER)
-#         else:
-#             st.session_state['task1']['disabled_task'] = True
-#             st.rerun()
+st.subheader('Лексика и грамматика')
+st.text('Vocabulary and grammar | Kosakata dan tata bahasa')
+show_def_tasks(6)
+show_def_tasks(7)
+show_def_tasks(8)
+show_def_tasks(9, True)
+st.subheader('ИСТОРИЯ РОССИИ')
+st.text('THE HISTORY OF RUSSIA | SEJARAH RUSIA')
+show_def_tasks(10)
+show_def_tasks(11)
+show_def_tasks(12)
+show_def_tasks(13)
+st.subheader('ОСНОВЫ ЗАКОНОДАТЕЛЬСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ')
+st.text('FUNDAMENTALS OF THE LEGISLATION OF THE RUSSIAN FEDERATION | DASAR-DASAR UNDANG-UNDANG FEDERASI RUSIA')
+show_def_tasks(15, True)
+show_def_tasks(16, True)
+show_def_tasks(17, True)
+show_def_tasks(18, True)

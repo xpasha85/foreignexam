@@ -1,0 +1,107 @@
+{
+  "name": "task7",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "",
+      "name_rus": "В салоне сотовой связи я купил __________",
+      "name_eng": "I bought it at a mobile phone store. __________",
+      "name_idn": "Saya membelinya di toko ponsel. __________",
+      "answer_hint": "телефон | telephone(eng),telepon (idn)|",
+      "hint_rus": "Если вопрос начинается с 6ти слов, то выбрать самы длинный ответ",
+      "hint_eng": "If the question starts with 6 words, then choose the longest answer.",
+      "hint_idn": "Jika pertanyaan dimulai dengan 6 kata, maka pilihlah jawaban yang paling panjang.",
+      "options": [
+        "молоко",
+        "телефон",
+        "куртку"
+      ],
+      "answer": "телефон"
+    },
+    {
+      "id": 2,
+      "adv": "",
+      "name_rus": "Мой друг _______________ в магазине.",
+      "name_eng": "My friend _______________ in the store.",
+      "name_idn": "Temanku _______________ di toko.",
+      "answer_hint": "работает |works(eng),karya (idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "живёт",
+        "работает",
+        "гуляет"
+      ],
+      "answer": "работает"
+    },
+    {
+      "id": 3,
+      "adv": "",
+      "name_rus": "Я люблю _______________ хорошую музыку.",
+      "name_eng": "I love _______________ good music.",
+      "name_idn": "Saya suka _______________ musik yang bagus.",
+      "answer_hint": "слушать|to listen(eng),untuk mendengarkan(idn)|",
+      "hint_rus": "Если вопрос начинается с (Я), то выбрать средний ответ по длине",
+      "hint_eng": "If the question starts with (Я), then choose the average answer in length.",
+      "hint_idn": "Jika pertanyaan dimulai dengan (Я), maka pilih jawaban rata-rata panjangnya.",
+      "options": [
+        "читать",
+        "слушать",
+        "смотреть"
+      ],
+      "answer": "слушать"
+    },
+    {
+      "id": 4,
+      "adv": "",
+      "name_rus": "Моя сестра работает в больнице ____________",
+      "name_eng": "My sister works at the hospital. ____________",
+      "name_idn": "Adikku bekerja di rumah sakit. ____________",
+      "answer_hint": "врачом|a doctor(eng), seorang dokter (idn)|",
+      "hint_rus": "Если вопрос начинается с 5ти слов, то выбрать самый короткий ответ",
+      "hint_eng": "If the question starts with 5 words, then choose the shortest answer.",
+      "hint_idn": "Jika pertanyaan dimulai dengan 5 kata, maka pilihlah jawaban yang paling pendek.",
+      "options": [
+        "врачом",
+        "учителем",
+        "парикмахером"
+      ],
+      "answer": "врачом"
+    },
+    {
+      "id": 5,
+      "adv": "",
+      "name_rus": "Вчера мы ______________ в парке.",
+      "name_eng": "Yesterday we ______________ in the park.",
+      "name_idn": "Kemarin kita ______________ di taman.",
+      "answer_hint": "отдыхали|Had a rest (eng), Beristirahat (idn)|",
+      "hint_rus": "Нужно выучить ответ",
+      "hint_eng": "You need to learn the answer",
+      "hint_idn": "Anda perlu mempelajari jawabannya",
+      "options": [
+        "отдыхаем",
+        "отдыхали",
+        "будем отдыхать"
+      ],
+      "answer": "отдыхали"
+    },
+    {
+      "id": 6,
+      "adv": "",
+      "name_rus": "Раньше она ______________ в кафе.",
+      "name_eng": "She used to ______________ in the cafe.",
+      "name_idn": "Dia digunakan untuk ______________ di kafe..",
+      "answer_hint": "работала| worked(eng), bekerja (idn)|",
+      "hint_rus": "Нужно выучить ответ",
+      "hint_eng": "You need to learn the answer",
+      "hint_idn": "Anda perlu mempelajari jawabannya",
+      "options": [
+        "будет работать",
+        "работала",
+        "работает"
+      ],
+      "answer": "работала"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "task12",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "",
+      "name_rus": "Великая Отечественная война закончилась -",
+      "name_eng": "The Great Patriotic War is over -",
+      "name_idn": "Perang Patriotik Hebat telah berakhir -",
+      "answer_hint": "в 1945 г. | in 1945 (eng), pada tahun 1945 (idn)|",
+      "hint_rus": "Если в ответах 4 цифры 19__, выбрать 1945",
+      "hint_eng": "If the answers have 4 digits 19__, choose 1945",
+      "hint_idn": "Jika jawabannya memiliki 4 digit 19__, pilih 1945",
+      "options": [
+        "в 1917 г.",
+        " в 1945 г.",
+        "в 1980 г."
+      ],
+      "answer": "в 1945 г."
+    },
+    {
+      "id": 2,
+      "adv": "",
+      "name_rus": "Союзником СССР в годы Великой Отечественной войны была",
+      "name_eng": "The USSR's ally during the Great Patriotic War was",
+      "name_idn": "Sekutu Uni Soviet selama Perang Patriotik Hebat adalah",
+      "answer_hint": "Великобритания |Great Britain(eng), Inggris Raya (idn)|",
+      "hint_rus": "Если в вопросе есть (СССР), то выбрать самый длинный ответ",
+      "hint_eng": "If there is (USSR) in the question, then choose the longest answer.",
+      "hint_idn": "Jika ada (СССР | USSR) dalam pertanyaan, maka pilih jawaban terpanjang.",
+      "options": [
+        "Япония",
+        "Великобритания",
+        "Германия"
+      ],
+      "answer": "Великобритания"
+    },
+    {
+      "id": 3,
+      "adv": "",
+      "name_rus": "Противником России в Отечественной войне 1812 г. была?",
+      "name_eng": "The enemy of Russia in the Patriotic War of 1812 was.",
+      "name_idn": "Musuh Rusia dalam Perang Patriotik tahun 1812 adalah",
+      "answer_hint": "Франция | France (eng), Prancis (idn)|",
+      "hint_rus": "Если в вопросе есть 1812, то выбрать средний по длине ответ",
+      "hint_eng": "If the question has 1812, then choose the average length of the answer.",
+      "hint_idn": "Jika pertanyaannya memiliki 1812, maka pilih panjang rata-rata jawabannya.",
+      "options": [
+        "Швеция",
+        "Франция",
+        "Великобритания"
+      ],
+      "answer": "Франция"
+    },
+    {
+      "id": 4,
+      "adv": "",
+      "name_rus": "Русской армией в ходе Отечественной войны 1812 г. командовал",
+      "name_eng": "He commanded the Russian Army during the Patriotic War of 1812.",
+      "name_idn": "Dia memimpin Tentara Rusia selama Perang Patriotik tahun 1812.",
+      "answer_hint": "М.И. Кутузов| M.I. Kutuzov (eng), M.I. Kutuzov (idn)|",
+      "hint_rus": "Если в вопросе есть 1812, то выбрать средний по длине ответ",
+      "hint_eng": "If the question has 1812, then choose the average length of the answer.",
+      "hint_idn": "Jika pertanyaannya memiliki 1812, maka pilih panjang rata-rata jawabannya.",
+      "options": [
+        "М.И. Кутузов",
+        "Дмитрий Донской",
+        "Г.К. Жуков"
+      ],
+      "answer": "М.И. Кутузов"
+    },
+    {
+      "id": 5,
+      "adv": "",
+      "name_rus": "В 1945 г.",
+      "name_eng": "in 1945?",
+      "name_idn": " pada tahun 1945?",
+      "answer_hint": "советские войска взяли Берлин| Saint-Petersburg (eng), Saint-Petersburg (idn)|",
+      "hint_rus": "Если в вопросе есть 1945, то выбрать самый короткий  ответ",
+      "hint_eng": "If the year in question is 1945, then choose the shortest answer.",
+      "hint_idn": "Jika tahun yang dimaksud adalah tahun 1945, maka pilihlah jawaban yang terpendek.",
+      "options": [
+        "состоялся первый в мире полёт человека в космос",
+        "советские войска взяли Берлин",
+        "вступил в силу Договор о создании Евразийского экономического союза"
+      ],
+      "answer": "советские войска взяли Берлин"
+    },
+    {
+      "id": 6,
+      "adv": "",
+      "name_rus": "Г.К. Жуков – это",
+      "name_eng": "GK Zhukov is",
+      "name_idn": "GK Zhukov adalah",
+      "answer_hint": "военачальник| The warlord (eng), Panglima perang (idn)|",
+      "hint_rus": "Если вопрос заканчивается на (-это), то выбрать самый длинный ответ",
+      "hint_eng": "If the question ends with (-это), then choose the longest answer.",
+      "hint_idn": "Jika pertanyaan diakhiri dengan (- это), maka pilihlah jawaban yang paling panjang.",
+      "options": [
+        "космонавт",
+        "военачальник",
+        "композитор"
+      ],
+      "answer": "военачальник"
+    }
+  ]
+}

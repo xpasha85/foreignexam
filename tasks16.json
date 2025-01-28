@@ -1,0 +1,107 @@
+{
+  "name": "task16",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "Где происходит регистрация брака в Российской Федерации?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "в отделе ЗАГС (записи актов гражданского состояния)| in the Registry Office department (civil registration)(eng) ,di departemen Kantor Catatan Sipil (pencatatan sipil) (idn) |",
+      "hint_rus": "Если все ответы начинаются с (В), то выбрать самый длинный",
+      "hint_eng": "If all the answers start with (B), then choose the longest one.",
+      "hint_idn": "Jika semua jawaban dimulai dengan (B), kemudian pilih yang terpanjang.",
+      "options": [
+        "в суде",
+        "в отделе ЗАГС (записи актов гражданского состояния)",
+        "в полиции"
+      ],
+      "answer": "в отделе ЗАГС (записи актов гражданского состояния)"
+    },
+    {
+      "id": 2,
+      "adv": "В какой форме согласно Трудовому кодексу Российской Федерации заключается трудовой договор?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "только в письменной| only in writing (eng),hanya secara tertulis (idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "только в письменной",
+        "только в устной",
+        "любой"
+      ],
+      "answer": "только в письменной"
+    },
+    {
+      "id": 3,
+      "adv": "Имеет ли иностранный гражданин право приобретать недвижимое имущество на территории Российской Федерации?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "имеет | has (eng),memiliki (idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "имеет",
+        "не имеет",
+        "только с разрешения суда"
+      ],
+      "answer": "имеет"
+    },
+    {
+      "id": 4,
+      "adv": "Иностранный гражданин в Российской Федерации обязан.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "однократно пройти дактилоскопическую регистрацию и фотографирование при получении разрешения на работу|to undergo fingerprint registration and photographing once upon obtaining a work permit(eng), untuk menjalani pendaftaran sidik jari dan pemotretan sekali setelah mendapatkan izin kerja(idn)|",
+      "hint_rus": "Если один из ответов начинается на (о), то выбирать этот ответ",
+      "hint_eng": "If one of the answers starts with (o), then choose this answer.",
+      "hint_idn": "Jika salah satu jawaban dimulai dengan (o), maka pilih jawaban ini.",
+      "options": [
+        "однократно пройти дактилоскопическую регистрацию и фотографирование при получении разрешения на работу",
+        "участвовать в выборах органов власти",
+        "уметь ориентироваться на территории субъекта Российской Федерации"
+      ],
+      "answer": "однократно пройти дактилоскопическую регистрацию и фотографирование при получении разрешения на работу"
+    },
+    {
+      "id": 5,
+      "adv": "Право на медицинскую помощь для иностранных граждан.",
+      "name_rus": "",
+      "name_eng": "",
+      "name_idn": "",
+      "answer_hint": "обеспечивается законодательством Российской Федерации| is provided by the legislation of the Russian Federation(eng), disediakan oleh undang-undang Federasi Rusia(idn)|",
+      "hint_rus": "Если один из ответов начинается на (о), то выбирать этот ответ",
+      "hint_eng": "If one of the answers starts with (o), then choose this answer.",
+      "hint_idn": "Jika salah satu jawaban dimulai dengan (o), maka pilih jawaban ini.",
+      "options": [
+        "не распространяется на детей иностранных граждан",
+        "не распространяется на иностранных пенсионеров",
+        "обеспечивается законодательством Российской Федерации"
+      ],
+      "answer": "обеспечивается законодательством Российской Федерации"
+    },
+    {
+      "id": 6,
+      "adv": "Трудящийся иностранный гражданин в Российской Федерации обязан.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "уплачивать налоги|pay taxes(eng),bayar pajak(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "вступить в брак",
+        "уплачивать налоги",
+        "делать покупки в магазине"
+      ],
+      "answer": "уплачивать налоги"
+    }
+  ]
+}

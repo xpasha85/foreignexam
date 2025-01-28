@@ -1,0 +1,107 @@
+{
+  "name": "task18",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "Для постановки на учёт по месту пребывания иностранный гражданин должен иметь.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "паспорт и миграционную карту | passport and migration card(eng) , paspor dan kartu migrasi(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "только миграционную карту",
+        "только паспорт",
+        "паспорт и миграционную карту"
+      ],
+      "answer": "паспорт и миграционную карту"
+    },
+    {
+      "id": 2,
+      "adv": "По общему правилу срок постановки иностранного гражданина на миграционный учёт составляет.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "7 рабочих дней| 7 working days(eng),7 hari kerja(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "3 рабочих дня",
+        "7 рабочих дней",
+        "10 рабочих дней"
+      ],
+      "answer": "7 рабочих дней"
+    },
+    {
+      "id": 3,
+      "adv": "Какую цель въезда нужно указать в миграционной карте, чтобы получить патент?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "работа| work(eng), bekerja(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "отдых",
+        "работа",
+        "частная"
+      ],
+      "answer": "работа"
+    },
+    {
+      "id": 4,
+      "adv": "При въезде в РФ необходимо получить и заполнить.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "миграционную карту| migration card(eng), kartu migrasi(idn)|",
+      "hint_rus": "Выбрать вариант ответа на (М)",
+      "hint_eng": "Choose an answer to (М)",
+      "hint_idn": "Pilih jawaban untuk (М)",
+      "options": [
+        "пзаявление на патент",
+        "миграционную карту",
+        "заявление на работу"
+      ],
+      "answer": "миграционную карту"
+    },
+    {
+      "id": 5,
+      "adv": "Когда должен покинуть территорию Российской Федерации временно пребывающий иностранный гражданин?",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "по истечении срока временного пребывания, установленного федеральным законом| upon expiration of the period of temporary stay established by federal law(eng), setelah berakhirnya masa tinggal sementara yang ditetapkan oleh undang-undang federal(idn)|",
+      "hint_rus": "Если все ответы начинаются на (по), нужно выбрать самый длинный",
+      "hint_eng": "If all the answers start with (по), you need to choose the longest one.",
+      "hint_idn": "Jika semua jawaban dimulai dengan (по), Anda harus memilih yang terpanjang.",
+      "options": [
+        "по первому требованию работодателя",
+        "по первому требованию правоохранительных органов",
+        "по истечении срока временного пребывания, установленного федеральным законом"
+      ],
+      "answer": "по истечении срока временного пребывания, установленного федеральным законом"
+    },
+    {
+      "id": 6,
+      "adv": "При миграционном учёте нужно указать.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "фамилию и имя| last name and first name(eng), nama belakang dan nama depan(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "трудовой стаж",
+        "профессию",
+        "фамилию и имя"
+      ],
+      "answer": "фамилию и имя"
+    }
+  ]
+}

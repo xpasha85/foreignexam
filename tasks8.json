@@ -1,0 +1,107 @@
+{
+  "name": "task8",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "",
+      "name_rus": "– Как вас зовут?– _______________ зовут Иван",
+      "name_eng": "- What's your name?– _______________ My name is Ivan",
+      "name_idn": "- Siapa namamu?– _______________ Nama saya Ivan",
+      "answer_hint": "Меня | Me (eng), Saya (idn)|",
+      "hint_rus": "Если вопрос начинается с (-), то выбрать самый длинный ответ",
+      "hint_eng": "If the question starts with (-), then choose the longest answer.",
+      "hint_idn": "Jika pertanyaan dimulai dengan ( - ), maka pilihlah jawaban yang paling panjang.",
+      "options": [
+        "Я",
+        " Меня",
+        "Мне"
+      ],
+      "answer": "Меня"
+    },
+    {
+      "id": 2,
+      "adv": "",
+      "name_rus": "Сколько _______________ лет",
+      "name_eng": "How much _______________ years old?",
+      "name_idn": "Berapa banyak _______________ tahun __________.",
+      "answer_hint": "тебе |to you(eng),untukmu (idn)|",
+      "hint_rus": "Если в вопросе 2 слова, то выбрать средний по дилне ответ",
+      "hint_eng": "If there are 2 words in the question, then choose the average answer.",
+      "hint_idn": "Jika ada 2 kata dalam pertanyaan, maka pilihlah jawaban rata-rata.",
+      "options": [
+        "ты",
+        "тебе",
+        "у тебя"
+      ],
+      "answer": "тебе"
+    },
+    {
+      "id": 3,
+      "adv": "",
+      "name_rus": "Скажите, _______________ есть семья?.",
+      "name_eng": "Tell me, _______________ Do you have a family?",
+      "name_idn": "Katakan padaku, _______________ Apakah Anda memiliki keluarga?.",
+      "answer_hint": "у Вас|at you(eng), padamu(idn)|",
+      "hint_rus": "Если в конце вопроса два слова и (?), то выбрать самый длинный ответ",
+      "hint_eng": "If there are two words and (?) at the end of the question, then choose the longest answer.",
+      "hint_idn": "Jika ada dua kata dan (?) di akhir pertanyaan, lalu pilih jawaban terpanjang.",
+      "options": [
+        "Вы",
+        "у Вас",
+        "Вам"
+      ],
+      "answer": "у Вас"
+    },
+    {
+      "id": 4,
+      "adv": "",
+      "name_rus": "Извините, это ________ документы?",
+      "name_eng": "Excuse me, are these _______ documents?",
+      "name_idn": "Permisi, apakah ini dokumen_______?",
+      "answer_hint": "ваши| yours(eng), milikmu (idn)|",
+      "hint_rus": "Если все ответы начинаются на (в), то запомнить ответ(вашИ)",
+      "hint_eng": "If all the answers start with (в), then remember the answer (вашИ).",
+      "hint_idn": "Jika semua jawaban dimulai dengan (в), maka ingat jawabannya (вашИ).",
+      "options": [
+        "ваши",
+        "ваша",
+        "ваш"
+      ],
+      "answer": "ваши"
+    },
+    {
+      "id": 5,
+      "adv": "",
+      "name_rus": "Моя подруга сейчас учится, она будет __________.",
+      "name_eng": "My friend is currently studying, she will __________.",
+      "name_idn": "Teman saya saat ini sedang belajar, dia akan __________.",
+      "answer_hint": "поваром| as a cook (eng), sebagai juru masak (idn)|",
+      "hint_rus": "Если в вопросе в конце предложения нет слов или все ответы начинаются на (п), то выбрать самый длинный ответ",
+      "hint_eng": "If there are no words in the question at the end of the sentence or all the answers start with (п), then choose the longest answer.",
+      "hint_idn": "Jika tidak ada kata dalam pertanyaan di akhir kalimat atau semua jawaban diawali dengan (п), maka pilihlah jawaban yang paling panjang.",
+      "options": [
+        "повар",
+        "поваром",
+        "повара"
+      ],
+      "answer": "поваром"
+    },
+    {
+      "id": 6,
+      "adv": "",
+      "name_rus": "Позвоните _____________, пожалуйста, завтра..",
+      "name_eng": "Give me a call _____________, Tomorrow, please.",
+      "name_idn": "Telepon aku _____________, Besok, tolong.",
+      "answer_hint": "мне| to me(eng), untuk saya(idn)|",
+      "hint_rus": "Если в вопросе в конце предложения (СЛОВО, СЛОВО), то выбрать средний по длине ответ",
+      "hint_eng": "If there is a (WORD, WORD) at the end of the sentence in the question, then choose the average length of the answer.",
+      "hint_idn": "Jika ada (KATA, KATA) di akhir kalimat dalam pertanyaan, maka pilihlah panjang rata-rata jawabannya.",
+      "options": [
+        "я",
+        "мне",
+        "меня"
+      ],
+      "answer": "мне"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "task11",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "",
+      "name_rus": "Столица Российской Федерации -",
+      "name_eng": "The capital of the Russian Federation -",
+      "name_idn": "Ibukota Federasi Rusia -",
+      "answer_hint": "Москва | Moscow (eng), Moskow (idn)|",
+      "hint_rus": "Запомнить Москва",
+      "hint_eng": "Remember Moscow",
+      "hint_idn": "Ingat Moskow",
+      "options": [
+        "Самара",
+        "Москва ",
+        "Екатеринбург"
+      ],
+      "answer": "Москва"
+    },
+    {
+      "id": 2,
+      "adv": "",
+      "name_rus": "В Российской Федерации находится город",
+      "name_eng": "There is a city in the Russian Federation",
+      "name_idn": "Ada sebuah kota di Federasi Rusia",
+      "answer_hint": "Владивосток |Vladivostok (eng), Vladivostok (idn)|",
+      "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
+      "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
+      "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "options": [
+        "Берлин",
+        "Владивосток",
+        "София"
+      ],
+      "answer": "Владивосток"
+    },
+    {
+      "id": 3,
+      "adv": "",
+      "name_rus": "Какой из этих городов находится в России?",
+      "name_eng": "Which of these cities is located in Russia?.",
+      "name_idn": "Manakah dari kota-kota ini yang terletak di Rusia?",
+      "answer_hint": "Новосибирск | Novosibirsk (eng), Novosibirsk (idn)|",
+      "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
+      "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
+      "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "options": [
+        "София",
+        "Новосибирск",
+        "Прага"
+      ],
+      "answer": "Новосибирск"
+    },
+    {
+      "id": 4,
+      "adv": "",
+      "name_rus": "В России находится город",
+      "name_eng": "There is a city in Russia",
+      "name_idn": "Ada sebuah kota di Rusia",
+      "answer_hint": "Самара| Samara (eng), Samara (idn)|",
+      "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
+      "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
+      "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "options": [
+        "Самара",
+        "Пекин",
+        "Будапешт"
+      ],
+      "answer": "Самара"
+    },
+    {
+      "id": 5,
+      "adv": "",
+      "name_rus": "Какой город Российской Федерации называют «второй столицей» России?",
+      "name_eng": "Which city of the Russian Federation is called the second capital of Russia?",
+      "name_idn": "Kota Federasi Rusia mana yang disebut sebagai ibu kota kedua Rusia?",
+      "answer_hint": "Санкт-Петербург| Saint-Petersburg (eng), Saint-Petersburg (idn)|",
+      "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
+      "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
+      "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "options": [
+        "Владивосток",
+        "Санкт-Петербург",
+        "Екатеринбург"
+      ],
+      "answer": "Санкт-Петербург"
+    },
+    {
+      "id": 6,
+      "adv": "",
+      "name_rus": "В России находится город",
+      "name_eng": "There is a city in Russia",
+      "name_idn": "Ada sebuah kota di Rusia",
+      "answer_hint": "Севастополь| Sevastopol (eng), Sevastopol (idn)|",
+      "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
+      "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
+      "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "options": [
+        "Пекин",
+        "Севастополь",
+        "Париж"
+      ],
+      "answer": "Севастополь"
+    }
+  ]
+}
