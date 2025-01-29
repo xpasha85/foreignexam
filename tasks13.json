@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": " Содружество Независимых Государств (СНГ) было образовано после",
       "name_eng": "The Commonwealth of Independent States (CIS) was formed after",
       "name_idn": "Persemakmuran Negara-Negara Merdeka (CIS) dibentuk setelah",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Прославленный полководец Великой Отечественной войны – __________",
       "name_eng": "The famous commander of the Great Patriotic War –",
       "name_idn": "Komandan terkenal dari Perang Patriotik Hebat –",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Содружество Независимых Государств (СНГ) было создано?",
       "name_eng": "The Commonwealth of Independent States (CIS) was established.",
       "name_idn": "Persemakmuran Negara-Negara Merdeka (CIS) didirikan",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В создании Содружества Независимых Государств (СНГ) участвовал",
       "name_eng": "Participated in the creation of the Commonwealth of Independent States (CIS)",
       "name_idn": "Berpartisipasi dalam pembentukan Persemakmuran Negara-negara Merdeka (CIS)",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В 1961 г. совершил полёт в космос.",
       "name_eng": "In 1961, he flew into space.",
       "name_idn": " Pada tahun 1961, dia terbang ke luar angkasa.",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Конституция России была принята",
       "name_eng": "The Constitution of Russia has been adopted",
       "name_idn": "Konstitusi Rusia telah diadopsi",

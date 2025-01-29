@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Сегодня суббота, а мама приехала вчера, _____________________.",
       "name_eng": "It's Saturday, and Mom arrived yesterday., _____________________.",
       "name_idn": "Ini hari Sabtu, dan Ibu tiba kemarin., _____________________.",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В магазине «Мебель» я купил _______________.",
       "name_eng": "I bought it at the Furniture store. _______________.",
       "name_idn": "Saya membelinya di toko Furnitur. _______________.",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "А.С. Пушкин родился летом, _______________.",
       "name_eng": "Alexander Pushkin was born in the summer, _______________.",
       "name_idn": "Alexander Pushkin lahir di musim panas, _______________.",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "– Станция метро находится здесь? – Нет, ___________________.",
       "name_eng": "– Is the metro station located here? No I said., ___________________.",
       "name_idn": "- Apakah stasiun metro terletak di sini? Tidak, kataku., ___________________.",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В магазине «Фрукты и овощи» я купил _____________..",
       "name_eng": "In the Fruit and Vegetables store, I bought _____________..",
       "name_idn": "Di toko Buah dan Sayur, saya membeli _____________..",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Что ты _____________ в субботу и в воскресенье?",
       "name_eng": "What are you _____________ on Saturday and Sunday?.",
       "name_idn": "Apa yang kamu _____________ pada hari Sabtu dan Minggu?.",

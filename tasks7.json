@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В салоне сотовой связи я купил __________",
       "name_eng": "I bought it at a mobile phone store. __________",
       "name_idn": "Saya membelinya di toko ponsel. __________",
@@ -20,14 +20,14 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Мой друг _______________ в магазине.",
       "name_eng": "My friend _______________ in the store.",
       "name_idn": "Temanku _______________ di toko.",
       "answer_hint": "работает |works(eng),karya (idn)|",
-      "hint_rus": "",
-      "hint_eng": "",
-      "hint_idn": "",
+      "hint_rus": " ",
+      "hint_eng": " ",
+      "hint_idn": " ",
       "options": [
         "живёт",
         "работает",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Я люблю _______________ хорошую музыку.",
       "name_eng": "I love _______________ good music.",
       "name_idn": "Saya suka _______________ musik yang bagus.",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Моя сестра работает в больнице ____________",
       "name_eng": "My sister works at the hospital. ____________",
       "name_idn": "Adikku bekerja di rumah sakit. ____________",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Вчера мы ______________ в парке.",
       "name_eng": "Yesterday we ______________ in the park.",
       "name_idn": "Kemarin kita ______________ di taman.",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Раньше она ______________ в кафе.",
       "name_eng": "She used to ______________ in the cafe.",
       "name_idn": "Dia digunakan untuk ______________ di kafe..",

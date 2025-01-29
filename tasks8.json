@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "– Как вас зовут?– _______________ зовут Иван",
       "name_eng": "- What's your name?– _______________ My name is Ivan",
       "name_idn": "- Siapa namamu?– _______________ Nama saya Ivan",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Сколько _______________ лет",
       "name_eng": "How much _______________ years old?",
       "name_idn": "Berapa banyak _______________ tahun __________.",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Скажите, _______________ есть семья?.",
       "name_eng": "Tell me, _______________ Do you have a family?",
       "name_idn": "Katakan padaku, _______________ Apakah Anda memiliki keluarga?.",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Извините, это ________ документы?",
       "name_eng": "Excuse me, are these _______ documents?",
       "name_idn": "Permisi, apakah ini dokumen_______?",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Моя подруга сейчас учится, она будет __________.",
       "name_eng": "My friend is currently studying, she will __________.",
       "name_idn": "Teman saya saat ini sedang belajar, dia akan __________.",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Позвоните _____________, пожалуйста, завтра..",
       "name_eng": "Give me a call _____________, Tomorrow, please.",
       "name_idn": "Telepon aku _____________, Besok, tolong.",

@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Великая Отечественная война закончилась -",
       "name_eng": "The Great Patriotic War is over -",
       "name_idn": "Perang Patriotik Hebat telah berakhir -",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Союзником СССР в годы Великой Отечественной войны была",
       "name_eng": "The USSR's ally during the Great Patriotic War was",
       "name_idn": "Sekutu Uni Soviet selama Perang Patriotik Hebat adalah",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Противником России в Отечественной войне 1812 г. была?",
       "name_eng": "The enemy of Russia in the Patriotic War of 1812 was.",
       "name_idn": "Musuh Rusia dalam Perang Patriotik tahun 1812 adalah",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Русской армией в ходе Отечественной войны 1812 г. командовал",
       "name_eng": "He commanded the Russian Army during the Patriotic War of 1812.",
       "name_idn": "Dia memimpin Tentara Rusia selama Perang Patriotik tahun 1812.",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В 1945 г.",
       "name_eng": "in 1945?",
       "name_idn": " pada tahun 1945?",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Г.К. Жуков – это",
       "name_eng": "GK Zhukov is",
       "name_idn": "GK Zhukov adalah",

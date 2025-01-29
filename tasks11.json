@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Столица Российской Федерации -",
       "name_eng": "The capital of the Russian Federation -",
       "name_idn": "Ibukota Federasi Rusia -",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В Российской Федерации находится город",
       "name_eng": "There is a city in the Russian Federation",
       "name_idn": "Ada sebuah kota di Federasi Rusia",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Какой из этих городов находится в России?",
       "name_eng": "Which of these cities is located in Russia?.",
       "name_idn": "Manakah dari kota-kota ini yang terletak di Rusia?",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В России находится город",
       "name_eng": "There is a city in Russia",
       "name_idn": "Ada sebuah kota di Rusia",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "Какой город Российской Федерации называют «второй столицей» России?",
       "name_eng": "Which city of the Russian Federation is called the second capital of Russia?",
       "name_idn": "Kota Federasi Rusia mana yang disebut sebagai ibu kota kedua Rusia?",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "В России находится город",
       "name_eng": "There is a city in Russia",
       "name_idn": "Ada sebuah kota di Rusia",

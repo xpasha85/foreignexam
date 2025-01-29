@@ -3,7 +3,7 @@
   "tasks": [
     {
       "id": 1,
-      "adv": "",
+      "adv": " ",
       "name_rus": "4 ноября в России празднуют",
       "name_eng": "November 4 is celebrated in Russia",
       "name_idn": "Di Rusia, dirayakan pada tanggal 4 November.",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "adv": "",
+      "adv": " ",
       "name_rus": "7 января в России празднуют",
       "name_eng": "January 7 is celebrated in Russia",
       "name_idn": "7 Januari dirayakan di Rusia",
@@ -37,7 +37,7 @@
     },
     {
       "id": 3,
-      "adv": "",
+      "adv": " ",
       "name_rus": "23 февраля в России празднуют",
       "name_eng": "In Russia, it is celebrated on February 23rd.",
       "name_idn": "Di Rusia, dirayakan pada tanggal 23 Februari.",
@@ -54,7 +54,7 @@
     },
     {
       "id": 4,
-      "adv": "",
+      "adv": " ",
       "name_rus": "День Победы в России отмечают",
       "name_eng": "Victory Day is celebrated in Russia",
       "name_idn": "Hari Kemenangan dirayakan di Rusia",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "adv": "",
+      "adv": " ",
       "name_rus": "День России в России отмечают",
       "name_eng": "Russia Day is celebrated in Russia",
       "name_idn": "Hari Rusia dirayakan di Rusia",
@@ -88,7 +88,7 @@
     },
     {
       "id": 6,
-      "adv": "",
+      "adv": " ",
       "name_rus": "12 июня в России отмечают",
       "name_eng": "On June 12, Russia celebrates",
       "name_idn": "Pada 12 Juni, Rusia merayakan",
