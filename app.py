@@ -134,17 +134,21 @@ def check_unchecked_tasks():
 # -------- Считаем верные ответы --------------
 def calc_exam():
     num_right_uns = 0
+    ls = []
     if check_unchecked_tasks():
+
         for i in range(1, 21):
             u_uns = st.session_state[f'user_ans_{i}']
             r_uns = st.session_state[f'right_ans_{i}']
             if u_uns == r_uns:
                 num_right_uns += 1
+            else:
+                ls.append([i, u_uns, r_uns])
             # st.write(f'Ответ юзера - "{u_uns}", правильный ответ - "{r_uns}", {num_right_uns}')
     else:
         num_right_uns = 0
         st.warning(texts.ERROR_NOT_ALL_CHECKED)
-    return num_right_uns
+    return num_right_uns, ls
 
 
 # ---------- Начало программы -----------------
@@ -189,7 +193,7 @@ show_def_tasks(18, True)
 show_def_tasks(19, True)
 show_def_tasks(20, True)
 if st.button('Проверить', key='check_btn', icon='📝'):
-    res = calc_exam()
+    res, ls = calc_exam()
     color = 'green'
     if res <= 10:
         color = 'red'
@@ -198,3 +202,6 @@ if st.button('Проверить', key='check_btn', icon='📝'):
 
     if res != 0:
         st.subheader(f":{color}[Ошибок: {20 - res}]")
+        if len(ls) > 0:
+            for item in ls:
+                st.write(f'№{item[0]}.  Ваш ответ:  {item[1]}.  Правильный ответ:  {item[2]}')
