@@ -13,7 +13,7 @@
       "hint_idn": "Jika ada 2 kata dalam jawabannya, maka pilihlah",
       "options": [
         "поэтому",
-        " потому что",
+        "потому что",
         "чтобы"
       ],
       "answer": "потому что"

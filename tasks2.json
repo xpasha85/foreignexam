@@ -46,7 +46,7 @@
       "hint_rus": "Если первое слово (ОН), то выбрать самый короткий ответ",
       "hint_eng": "If the first word is (ОН | HE), then choose the shortest answer.",
       "hint_idn": "Jika kata pertama adalah (ОН | DIA), maka pilihlah jawaban yang paling pendek.",
-      "options": ["Он не дал мобильный телефон", "Он потерял мобильный телефон", "Он дал мобильный телефоне"],
+      "options": ["Он не дал мобильный телефон", "Он потерял мобильный телефон", "Он дал мобильный телефон"],
       "answer": "Он дал мобильный телефон"
     },
     {

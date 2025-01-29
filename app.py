@@ -47,10 +47,12 @@ def task5():
         hint_eng = tsk["hint_eng"]
         hint_idn = tsk["hint_idn"]
         st.session_state['right_ans_5'] = tsk["answer"]
+        # st.session_state["user_ans_5"] = None
         with st.container(border=True, key='adv5'):
             adv = tsk["adv"]
             st.write(adv)
-        st.text_input(label='111', label_visibility='hidden', key="inp_user_ans_5", disabled=st.session_state['task5']['disabled_task'])
+        st.text_input(label='111', label_visibility='hidden', key="inp_user_ans_5",
+                      disabled=st.session_state['task5']['disabled_task'])
         if st.checkbox('Показать подсказки', key='chb5'):
             st.markdown(f":green[{hint}]")
             st.markdown(f":green[{hint_rus}]")
@@ -116,6 +118,35 @@ def refresh_exam():
     st.session_state.clear()
 
 
+# ------- Проверка есть ли неотвеченные вопросы --------
+def check_unchecked_tasks():
+    fl = True
+    for i in range(1, 21):
+        if st.session_state[f'user_ans_{i}'] is None:
+            fl = False
+            break
+        if not fl:
+            fl = False
+            break
+    return fl
+
+
+# -------- Считаем верные ответы --------------
+def calc_exam():
+    num_right_uns = 0
+    if check_unchecked_tasks():
+        for i in range(1, 21):
+            u_uns = st.session_state[f'user_ans_{i}']
+            r_uns = st.session_state[f'right_ans_{i}']
+            if u_uns == r_uns:
+                num_right_uns += 1
+            # st.write(f'Ответ юзера - "{u_uns}", правильный ответ - "{r_uns}", {num_right_uns}')
+    else:
+        num_right_uns = 0
+        st.warning(texts.ERROR_NOT_ALL_CHECKED)
+    return num_right_uns
+
+
 # ---------- Начало программы -----------------
 # st.write(st.session_state)
 col1, col2 = st.columns(2)
@@ -147,9 +178,23 @@ show_def_tasks(10)
 show_def_tasks(11)
 show_def_tasks(12)
 show_def_tasks(13)
+st.session_state['right_ans_14'] = '14'
+st.session_state['user_ans_14'] = '14'
 st.subheader('ОСНОВЫ ЗАКОНОДАТЕЛЬСТВА РОССИЙСКОЙ ФЕДЕРАЦИИ')
 st.text('FUNDAMENTALS OF THE LEGISLATION OF THE RUSSIAN FEDERATION | DASAR-DASAR UNDANG-UNDANG FEDERASI RUSIA')
 show_def_tasks(15, True)
 show_def_tasks(16, True)
 show_def_tasks(17, True)
 show_def_tasks(18, True)
+show_def_tasks(19, True)
+show_def_tasks(20, True)
+if st.button('Проверить', key='check_btn', icon='📝'):
+    res = calc_exam()
+    color = 'green'
+    if res <= 10:
+        color = 'red'
+    elif res <= 16:
+        color = 'orange'
+
+    if res != 0:
+        st.subheader(f":{color}[Ошибок: {20 - res}]")

@@ -13,7 +13,7 @@
       "hint_idn": "Jika pertanyaan dimulai dengan ( - ), maka pilihlah jawaban yang paling panjang.",
       "options": [
         "Я",
-        " Меня",
+        "Меня",
         "Мне"
       ],
       "answer": "Меня"

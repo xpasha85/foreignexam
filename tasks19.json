@@ -1,0 +1,107 @@
+{
+  "name": "task19",
+  "tasks": [
+    {
+      "id": 1,
+      "adv": "Если иностранный гражданин нарушил правила постановки на миграционный учёт, то он привлекается к ____________ ответственности.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "административной|administrative (eng), administrasi (idn)|",
+      "hint_rus": "Если ответ начинается с (а), то выбрать его",
+      "hint_eng": "If the answer starts with (a), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (a), maka pilih",
+      "options": [
+        "дисциплинарной",
+        "уголовной",
+        "административной"
+      ],
+      "answer": "административной"
+    },
+    {
+      "id": 2,
+      "adv": "Наказание за нарушение иностранным гражданином или лицом без гражданства правил въезда в Российскую Федерацию устанавливает.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "Кодекс Российской Федерации об административных правонарушениях| the Code of Administrative Offences of the Russian Federation (eng), Kode Pelanggaran Administratif Federasi Rusia (idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "Трудовой кодекс Российской Федерации",
+        "Кодекс Российской Федерации об административных правонарушениях",
+        "Гражданский кодекс Российской Федерации"
+      ],
+      "answer": "Кодекс Российской Федерации об административных правонарушениях"
+    },
+    {
+      "id": 3,
+      "adv": "Для получения патента иностранный гражданин предоставляет в уполномоченную организацию документы в течение.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "30 календарных дней| 30 calendar days(eng), 30 hari kalender(idn)|",
+      "hint_rus": "Запомнить 30",
+      "hint_eng": "Remember 30",
+      "hint_idn": "Ingat 30",
+      "options": [
+        "30 календарных дней",
+        "20 календарных дней",
+        "10 календарных дней"
+      ],
+      "answer": "30 календарных дней"
+    },
+    {
+      "id": 4,
+      "adv": "Иностранный гражданин совершил преступление на территории Российской Федерации.",
+      "name_rus": "Каким кодексом регулируется ответственность за него?",
+      "name_eng": "What code regulates responsibility for it?",
+      "name_idn": "Kode apa yang mengatur tanggung jawab untuk itu?",
+      "answer_hint": "Уголовным кодексом Российской Федерации| The Criminal Code of the Russian Federation(eng), KUHP Federasi Rusia(idn)|",
+      "hint_rus": "",
+      "hint_eng": "",
+      "hint_idn": "",
+      "options": [
+        "Уголовным кодексом Российской Федерации",
+        "Уголовным кодексом страны его гражданства",
+        "Гражданским кодексом Российской Федерации"
+      ],
+      "answer": "Уголовным кодексом Российской Федерации"
+    },
+    {
+      "id": 5,
+      "adv": "Если иностранный гражданин нарушил правила постановки на миграционный учёт, то он привлекается к ответственности.»",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "административной|administrative (eng), administrasi (idn)|",
+      "hint_rus": "Если ответ начинается с (а), то выбрать его",
+      "hint_eng": "If the answer starts with (a), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (a), maka pilih",
+      "options": [
+        "дисциплинарной",
+        "уголовной",
+        "административной"
+      ],
+      "answer": "административной"
+    },
+    {
+      "id": 6,
+      "adv": "Видом наказания за нарушение правил миграционного учёта является.",
+      "name_rus": " ",
+      "name_eng": " ",
+      "name_idn": " ",
+      "answer_hint": "административный штраф| administrative fine(eng), denda administrasi(idn)|",
+      "hint_rus": "Если ответ начинается с (а), то выбрать его",
+      "hint_eng": "If the answer starts with (a), then select it",
+      "hint_idn": "Jika jawabannya dimulai dengan (a), maka pilih",
+      "options": [
+        "административный штраф",
+        "выговор",
+        "замечание"
+      ],
+      "answer": "административный штраф"
+    }
+  ]
+}
