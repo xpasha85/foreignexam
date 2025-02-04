@@ -13,6 +13,14 @@ hide_menu_style = """
 st.markdown(hide_menu_style, unsafe_allow_html=True)
 
 
+# Глобальная переменная принимает значения idn, tha, (в дальнейшем chn)
+# для выбора языка подсказок.
+
+
+LANGUAGE = "tha"
+
+
+
 # загружаем все задания из файлов
 def load_tasks():
     for i in range(20):
@@ -36,16 +44,39 @@ def disable_task():
     pass
 
 
+# --------- Тестовый парсер строки с подсказкой ---------------
+def parse_hint(text: str, lng="tha", prev_lng='idn'):
+    ls1 = text.split('|')
+
+    rus = ls1[0]
+    th = ls1[1].split(f'({lng})')
+    en = ls1[1].split('(eng)')[0]
+    if len(en) > 0:
+        while en[0] == ' ':
+            en = en[1:]
+
+    ls2 = th[0].split(f'({prev_lng})')
+    it = ls2[-1]
+    print('+', it, '+')
+    if len(it) > 0:
+        while it[0] in ([' ', ',', ')']) and len(it) > 1:
+            it = it[1:]
+
+    print(ls1, th, en, ls2, it, sep='\n')
+    new_st = rus + ' | ' + en + ' (eng), ' + it + ' (' + lng + ')|'
+    return new_st
+
+
 def task5():
     expander = st.expander('Задание №5')
     with expander:
         tsk = st.session_state['task5']
         id = tsk['id']
         adv = tsk["adv"]
-        hint = tsk["answer_hint"]
+        hint = parse_hint(tsk["answer_hint"])
         hint_rus = tsk["hint_rus"]
         hint_eng = tsk["hint_eng"]
-        hint_idn = tsk["hint_idn"]
+        hint_lng = tsk.get(f"hint_{LANGUAGE}")
         st.session_state['right_ans_5'] = tsk["answer"]
         # st.session_state["user_ans_5"] = None
         with st.container(border=True, key='adv5'):
@@ -56,12 +87,13 @@ def task5():
         if st.checkbox('Показать подсказки', key='chb5'):
             st.markdown(f":green[{hint}]")
             st.markdown(f":green[{hint_rus}]")
-            st.markdown(f":green[{hint_idn}]")
+            st.markdown(f":green[{hint_lng}]")
         if st.button('Ответить', icon='✅', disabled=st.session_state['task5']['disabled_task'],
                      on_click=disable_task, key='btn5'):
             if 'inp_user_ans_5' not in st.session_state or st.session_state['inp_user_ans_5'] is None or \
                     st.session_state['inp_user_ans_5'] == "":
-                st.warning(texts.ERROR_NO_CHECK_ANSWER)
+
+                st.warning(texts.ERROR_NO_CHECK_ANSWER[LANGUAGE])
             else:
                 k = str.lower(st.session_state["inp_user_ans_5"])
                 st.session_state["user_ans_5"] = k
@@ -78,10 +110,10 @@ def show_def_tasks(number: int, adv_enable: bool = False):
         name_rus = tsk["name_rus"]
         name_eng = tsk["name_eng"]
         name_idn = tsk["name_idn"]
-        hint = tsk["answer_hint"]
+        hint = parse_hint(tsk["answer_hint"])
         hint_rus = tsk["hint_rus"]
         hint_eng = tsk["hint_eng"]
-        hint_idn = tsk["hint_idn"]
+        hint_lng = tsk.get(f"hint_{LANGUAGE}")
         options = tsk["options"]
         st.session_state[f'right_ans_{number}'] = tsk["answer"]
         if adv_enable:
@@ -97,11 +129,11 @@ def show_def_tasks(number: int, adv_enable: bool = False):
             if st.checkbox('Показать подсказки', key=f'chb{number}'):
                 st.markdown(f":green[{hint}]")
                 st.markdown(f":green[{hint_rus}]")
-                st.markdown(f":green[{hint_idn}]")
+                st.markdown(f":green[{hint_lng}]")
         if st.button('Ответить', icon='✅', disabled=st.session_state[f'task{number}']['disabled_task'],
                      on_click=disable_task, key=f'btn{number}'):
             if f'user_ans_{number}' not in st.session_state or st.session_state[f'user_ans_{number}'] is None:
-                st.warning(texts.ERROR_NO_CHECK_ANSWER)
+                st.warning(texts.ERROR_NO_CHECK_ANSWER[LANGUAGE])
             else:
                 st.session_state[f'task{number}']['disabled_task'] = True
                 st.rerun()
@@ -204,4 +236,4 @@ if st.button('Проверить', key='check_btn', icon='📝'):
         st.subheader(f":{color}[Ошибок: {20 - res}]")
         if len(ls) > 0:
             for item in ls:
-                st.write(f'№{item[0]}.  Ваш ответ:  {item[1]}.  Правильный ответ:  {item[2]}')
+                st.markdown(f'№{item[0]}. Ваш ответ - {item[1]}.Правильный ответ - {item[2]}')
