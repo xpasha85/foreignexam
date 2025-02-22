@@ -11,6 +11,7 @@
       "hint_rus": "Запомнить Москва",
       "hint_eng": "Remember Moscow",
       "hint_idn": "Ingat Moskow",
+      "hint_tha":"จำมอสโก",
       "options": [
         "Самара",
         "Москва",
@@ -28,6 +29,7 @@
       "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
       "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
       "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "hint_tha":"เลือกคำตอบที่ยาวที่สุดถ้ามันไม่ได้เริ่มต้นด้วย(Б)แล้วเลือกคำตอบเฉลี่ย", 
       "options": [
         "Берлин",
         "Владивосток",
@@ -45,6 +47,7 @@
       "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
       "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
       "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+       "hint_tha":"เลือกคำตอบที่ยาวที่สุดถ้ามันไม่ได้เริ่มต้นด้วย(Б)แล้วเลือกคำตอบเฉลี่ย", 
       "options": [
         "София",
         "Новосибирск",
@@ -62,6 +65,7 @@
       "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
       "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
       "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+      "hint_tha":"เลือกคำตอบที่ยาวที่สุดถ้ามันไม่ได้เริ่มต้นด้วย(Б)แล้วเลือกคำตอบเฉลี่ย",
       "options": [
         "Самара",
         "Пекин",
@@ -79,6 +83,7 @@
       "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
       "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
       "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+       "hint_tha":"เลือกคำตอบที่ยาวที่สุดถ้ามันไม่ได้เริ่มต้นด้วย(Б)แล้วเลือกคำตอบเฉลี่ย", 
       "options": [
         "Владивосток",
         "Санкт-Петербург",
@@ -96,6 +101,7 @@
       "hint_rus": "Выбрать самый длинный ответ, если он не начинается на (Б), тогда выбрать средний по длине ответ",
       "hint_eng": "Choose the longest answer, if it doesn't start with (Б), then choose the average answer.",
       "hint_idn": "Pilih jawaban terpanjang, jika tidak dimulai dengan (Б), maka pilih jawaban rata-rata.",
+       "hint_tha":"เลือกคำตอบที่ยาวที่สุด,ถ้ามันไม่ได้เริ่มต้นด้วย(Б),แล้วเลือกคำตอบเฉลี่ย.",
       "options": [
         "Пекин",
         "Севастополь",
@@ -105,3 +111,4 @@
     }
   ]
 }
+

@@ -7,10 +7,11 @@
       "name_rus": " Содружество Независимых Государств (СНГ) было образовано после",
       "name_eng": "The Commonwealth of Independent States (CIS) was formed after",
       "name_idn": "Persemakmuran Negara-Negara Merdeka (CIS) dibentuk setelah",
-      "answer_hint": "распада СССР в 1991 г. |the collapse of the USSR in 1991 (eng), runtuhnya Uni Soviet pada tahun 1991 (idn)|",
+      "answer_hint": "распада СССР в 1991 г. |the collapse of the USSR in 1991 (eng), runtuhnya Uni Soviet pada tahun 1991 (idn), การล่มสลายของสหภาพโซเวียตในปี 1991(tha)|",
       "hint_rus": "Запомнить (СССР) или 1991 и выбрать ответ с этим",
       "hint_eng": "Remember (СССР | USSR) or 1991 and choose an answer containing this",
       "hint_idn": "Ingat (СССР | USSR) atau 1991 dan pilih jawaban yang berisi ini",
+      "hint_tha": "จำ(СССР/สหภาพโซเวียต|หรือ 1991 และเลือกคำตอบที่มีนี้",
       "options": [
         "Великой Отечественной войны в 1941–1945 гг..",
         "распада СССР в 1991 г.",
@@ -28,6 +29,7 @@
       "hint_rus": "Если в конце вопроса (-____), то выбрать самый короткий ответ",
       "hint_eng": "If there is a (-____) at the end of the question, then choose the shortest answer.",
       "hint_idn": "Jika ada (-____) di akhir pertanyaan, maka pilihlah jawaban yang paling pendek.",
+      "hint_tha": "หากมี(-____)ในตอนท้ายของคำถามแล้วเลือกคำตอบที่สั้นที่สุด",
       "options": [
         "А.В. Суворов",
         "Г.К. Жуков",
@@ -45,6 +47,7 @@
       "hint_rus": "Запомнить (СССР) или 1991 и выбрать ответ с этим",
       "hint_eng": "Remember (СССР | USSR) or 1991 and choose an answer containing this",
       "hint_idn": "Ingat (СССР | USSR) atau 1991 dan pilih jawaban yang berisi ini",
+      "hint_tha": "จำ(СССР/สหภาพโซเวียต|หรือ 1991 และเลือกคำตอบที่มีนี้",
       "options": [
         "в 1612 г.",
         "в 1991 г.",
@@ -62,6 +65,7 @@
       "hint_rus": "Выучить нужный ответ",
       "hint_eng": "Learn the right answer",
       "hint_idn": "Pelajari jawaban yang benar",
+      "hint_tha": "เรียนรู้คำตอบที่ถูกต้อง",
       "options": [
         "Борис Ельцин",
         "Дмитрий Донской",
@@ -79,6 +83,7 @@
       "hint_rus": "Если в вопросе есть 1961, то выбрать самый длинный ответ",
       "hint_eng": "If the question has 1961, then choose the longest answer.",
       "hint_idn": "Jika pertanyaannya memiliki tahun 1961, maka pilihlah jawaban yang paling panjang.",
+      "hint_tha": "หากคำถามมี 1961 แล้วเลือกคำตอบที่ยาวที่สุด",
       "options": [
         "Б.Н. Ельцин",
         "Ю.А. Гагарин",
@@ -96,6 +101,7 @@
       "hint_rus": "Если в ответе есть 1993, то выбрать это",
       "hint_eng": "If there is 1993 in the answer, then select this",
       "hint_idn": "Jika ada 1993 dalam jawabannya, maka pilih ini",
+      "hint_tha": "หากมี 1993 ในคำตอบ,แล้วเลือกนี้",
       "options": [
         "в 1812 г.",
         "в 1993 г",

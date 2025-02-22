@@ -7,10 +7,11 @@
       "name_rus": "Сегодня суббота, а мама приехала вчера, _____________________.",
       "name_eng": "It's Saturday, and Mom arrived yesterday., _____________________.",
       "name_idn": "Ini hari Sabtu, dan Ibu tiba kemarin., _____________________.",
-      "answer_hint": "в пятницу | on Friday(eng),pada hari Jumat (idn)|",
+      "answer_hint": "в пятницу | on Friday(eng),pada hari Jumat (idn), วันศุกร์ (tha)|",
       "hint_rus": "Если все ответы начинаются с (В), то выбрать средний по длине",
       "hint_eng": "If all answers start with (B), then choose the average length.",
       "hint_idn": "Jika semua jawaban dimulai dengan (B), maka pilih panjang rata-ratanya.",
+      "hint_tha": "ถ้าคำตอบทั้งหมดเริ่มต้นด้วย(ข)แล้วเลือกความยาวเฉลี่ย",
       "options": [
         "в среду",
         "в пятницу",
@@ -24,10 +25,11 @@
       "name_rus": "В магазине «Мебель» я купил _______________.",
       "name_eng": "I bought it at the Furniture store. _______________.",
       "name_idn": "Saya membelinya di toko Furnitur. _______________.",
-      "answer_hint": "стол |table(eng),tabel (idn)|",
+      "answer_hint": "стол | table(eng),tabel (idn), โต๊ะ (tha) |",
       "hint_rus": "Запомнить «Мебель» в воросе и (стол) в ответе",
       "hint_eng": "Remember the «Мебель» in the question and (стол) in the answer",
       "hint_idn": "Ingat «Мебель» dalam pertanyaan dan (стол) dalam jawabannya",
+      "hint_tha": "โปรดจำไว้ว่า(Мебель)ในคำถามและ(стол)ในคำตอบ",
       "options": [
         "хлеб",
         "стол",
@@ -41,10 +43,11 @@
       "name_rus": "А.С. Пушкин родился летом, _______________.",
       "name_eng": "Alexander Pushkin was born in the summer, _______________.",
       "name_idn": "Alexander Pushkin lahir di musim panas, _______________.",
-      "answer_hint": "6 июня|June 6th(eng),6 Juni mendengarkan(idn)|",
+      "answer_hint": "6 июня|June 6th(eng),6 Juni mendengarkan(idn), 6 มิถุนายน (tha)|",
       "hint_rus": "Если все ответы содержат 6, то выбрать самый короткий",
       "hint_eng": "If all the answers contain 6, then choose the shortest one.",
       "hint_idn": "Jika semua jawaban berisi 6, maka pilih yang terpendek.",
+      "hint_tha": "ถ้าคำตอบทั้งหมดมี 6 แล้วเลือกหนึ่งที่สั้นที่สุด",
       "options": [
         "6 сентября",
         "6 июня",
@@ -58,10 +61,11 @@
       "name_rus": "– Станция метро находится здесь? – Нет, ___________________.",
       "name_eng": "– Is the metro station located here? No I said., ___________________.",
       "name_idn": "- Apakah stasiun metro terletak di sini? Tidak, kataku., ___________________.",
-      "answer_hint": "там|there (eng), ada (idn)|",
+      "answer_hint": "там|there (eng), ada (idn), นั่นไง (tha)|",
       "hint_rus": "Если вопрос начинается с (-), то выбрать самый короткий ответ",
       "hint_eng": "If the question starts with (-), then choose the shortest answer.",
       "hint_idn": "Jika pertanyaan dimulai dengan ( - ), maka pilihlah jawaban yang paling pendek.",
+      "hint_tha": " ถ้าคำถามเริ่มต้นด้วย(-)แล้วเลือกคำตอบที่สั้นที่สุด",
       "options": [
         "там",
         "оттуда",
@@ -75,10 +79,11 @@
       "name_rus": "В магазине «Фрукты и овощи» я купил _____________..",
       "name_eng": "In the Fruit and Vegetables store, I bought _____________..",
       "name_idn": "Di toko Buah dan Sayur, saya membeli _____________..",
-      "answer_hint": "яблоки|apples (eng), apel (idn)|",
+      "answer_hint": "яблоки|apples (eng), apel (idn), แอปเปิ้ล (tha)|",
       "hint_rus": "Запомнить «Фрукты и овощи» в воросе и (яблоки) в ответе",
       "hint_eng": "Remember the «Фрукты и овощи» in the question and (яблоки) in the answer",
       "hint_idn": "Ingat «Фрукты и овощи» dalam pertanyaan dan (яблоки) dalam jawabannya",
+      "hint_tha": " โปรดจำไว้ว่า(Фрукты и овощи)ในคำถามและ(яблоки)ในคำตอบ",
       "options": [
         "конфеты",
         "яблоки",
@@ -92,10 +97,11 @@
       "name_rus": "Что ты _____________ в субботу и в воскресенье?",
       "name_eng": "What are you _____________ on Saturday and Sunday?.",
       "name_idn": "Apa yang kamu _____________ pada hari Sabtu dan Minggu?.",
-      "answer_hint": "делаешь| doing(eng), melakukan (idn)|",
+      "answer_hint": "делаешь| doing(eng), melakukan (idn), ทำ (tha) |",
       "hint_rus": "Если вопрос начинается с (Что), то выбрать самый короткий ответ",
       "hint_eng": "If the question starts with (Что), then choose the shortest answer.",
       "hint_idn": "Jika pertanyaan dimulai dengan (Что), maka pilihlah jawaban yang paling pendek.",
+      "hint_tha": " หากคำถามเริ่มต้นด้วย(Что)แล้วเลือกคำตอบที่สั้นที่สุด",
       "options": [
         "занимаешься",
         "делаешь",
@@ -105,3 +111,4 @@
     }
   ]
 }
+

@@ -7,10 +7,12 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "потому что |because (eng), karena (idn)|",
+      "answer_hint": "потому что |because (eng), karena (idn), เพราะว่า (tha) |",
       "hint_rus": "Если в ответе 2 слова то выбрать его",
       "hint_eng": "If there are 2 words in the answer, then select it",
       "hint_idn": "Jika ada 2 kata dalam jawabannya, maka pilihlah",
+      "hint_eng": "If there are 2 words in the answer, then select it",
+      "hint_tha": "หากมี 2 คำในคำตอบแล้วเลือก",
       "options": [
         "поэтому",
         "потому что",
@@ -24,10 +26,11 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "Как |How (eng), Bagaimana caranya(idn)|",
+      "answer_hint": "Как |How (eng), Bagaimana caranya(idn), ยังไง (tha)|",
       "hint_rus": "Если в ответе есть (как или какая) выбрать это",
       "hint_eng": "If the answer contains (как or какая), choose this",
       "hint_idn": "Jika jawabannya berisi (как atau какая), pilih ini",
+      "hint_tha": "ถ้าคำตอบประกอบด้วย(วิธีการหรือสิ่งที่),เลือกนี้",
       "options": [
         "Какой",
         "Как",
@@ -41,10 +44,11 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "потому что | because (eng), karena (idn)|",
+      "answer_hint": "потому что | because (eng), karena (idn), เพราะว่า (tha)|",
       "hint_rus": "Если в ответе 2 слова то выбрать его",
       "hint_eng": "If there are 2 words in the answer, then select it",
       "hint_idn": "Jika ada 2 kata dalam jawabannya, maka pilihlah",
+      "hint_tha": "หากมี 2 คำในคำตอบแล้วเลือก",
       "options": [
         "чтобы",
         "потому что",
@@ -58,10 +62,11 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "какая| what (eng), apa (idn)|",
+      "answer_hint": "какая| what (eng), apa (idn), อะไรนะ (tha)|",
       "hint_rus": "Если в ответе есть (как или какая) выбрать это",
       "hint_eng": "If the answer contains (как or какая), choose this",
       "hint_idn": "Jika jawabannya berisi (как atau какая), pilih ini",
+      "hint_tha": "ถ้าคำตอบประกอบด้วย(วิธีการหรือสิ่งที่),เลือกนี้", 
       "options": [
         "какая",
         "что",
@@ -75,10 +80,11 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "где| where (eng), dimana (idn)|",
+      "answer_hint": "где| where (eng), dimana (idn), ที่ไหน (tha)|",
       "hint_rus": "Нужно запомнить ответ (где)",
       "hint_eng": "You need to remember the answer (где)",
       "hint_idn": "Anda perlu mengingat jawabannya (где)",
+      "hint_tha": "คุณต้องจำคำตอบ(где)", 
       "options": [
         "как",
         "где",
@@ -92,10 +98,11 @@
       "name_rus": " ",
       "name_eng": " ",
       "name_idn": " ",
-      "answer_hint": "как| How (eng), Bagaimana caranya(idn)|",
+      "answer_hint": "как| How (eng), Bagaimana caranya(idn), ยังไง (tha)|",
       "hint_rus": "Если в ответе есть (как или какая) выбрать это",
       "hint_eng": "If the answer contains (как or какая), choose this",
       "hint_idn": "Jika jawabannya berisi (как atau какая), pilih ini",
+      "hint_tha": "ถ้าคำตอบประกอบด้วย(วิธีการหรือสิ่งที่),เลือกนี้",
       "options": [
         "что",
         "как",
@@ -105,3 +112,4 @@
     }
   ]
 }
+

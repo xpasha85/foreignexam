@@ -7,10 +7,11 @@
       "name_rus": "В салоне сотовой связи я купил __________",
       "name_eng": "I bought it at a mobile phone store. __________",
       "name_idn": "Saya membelinya di toko ponsel. __________",
-      "answer_hint": "телефон | telephone(eng),telepon (idn)|",
+      "answer_hint": "телефон | telephone(eng),telepon (idn), เบอร์โทรศัพท์ (tha)|",
       "hint_rus": "Если вопрос начинается с 6ти слов, то выбрать самы длинный ответ",
       "hint_eng": "If the question starts with 6 words, then choose the longest answer.",
       "hint_idn": "Jika pertanyaan dimulai dengan 6 kata, maka pilihlah jawaban yang paling panjang.",
+      "hint_tha": "ถ้าคำถามเริ่มต้นด้วย 6 คำแล้วเลือกคำตอบที่ยาวที่สุด",
       "options": [
         "молоко",
         "телефон",
@@ -24,10 +25,11 @@
       "name_rus": "Мой друг _______________ в магазине.",
       "name_eng": "My friend _______________ in the store.",
       "name_idn": "Temanku _______________ di toko.",
-      "answer_hint": "работает |works(eng),karya (idn)|",
+      "answer_hint": "работает |works(eng),karya (idn), ผลงาน (tha)|",
       "hint_rus": " ",
       "hint_eng": " ",
       "hint_idn": " ",
+      "hint_tha": " ",
       "options": [
         "живёт",
         "работает",
@@ -41,10 +43,11 @@
       "name_rus": "Я люблю _______________ хорошую музыку.",
       "name_eng": "I love _______________ good music.",
       "name_idn": "Saya suka _______________ musik yang bagus.",
-      "answer_hint": "слушать|to listen(eng),untuk mendengarkan(idn)|",
+      "answer_hint": "слушать|to listen(eng),untuk mendengarkan(idn), ที่จะรับฟัง (tha)|",
       "hint_rus": "Если вопрос начинается с (Я), то выбрать средний ответ по длине",
       "hint_eng": "If the question starts with (Я), then choose the average answer in length.",
       "hint_idn": "Jika pertanyaan dimulai dengan (Я), maka pilih jawaban rata-rata panjangnya.",
+      "hint_tha": " หากคำถามเริ่มต้นด้วย(Я)แล้วเลือกคำตอบเฉลี่ยในความยาว",
       "options": [
         "читать",
         "слушать",
@@ -58,10 +61,11 @@
       "name_rus": "Моя сестра работает в больнице ____________",
       "name_eng": "My sister works at the hospital. ____________",
       "name_idn": "Adikku bekerja di rumah sakit. ____________",
-      "answer_hint": "врачом|a doctor(eng), seorang dokter (idn)|",
+      "answer_hint": "врачом|a doctor(eng), seorang dokter (idn), คุณหมอ (tha)|",
       "hint_rus": "Если вопрос начинается с 5ти слов, то выбрать самый короткий ответ",
       "hint_eng": "If the question starts with 5 words, then choose the shortest answer.",
       "hint_idn": "Jika pertanyaan dimulai dengan 5 kata, maka pilihlah jawaban yang paling pendek.",
+       "hint_tha": " ถ้าคำถามเริ่มต้นด้วย 5 คำแล้วเลือกคำตอบที่สั้นที่สุด",
       "options": [
         "врачом",
         "учителем",
@@ -75,10 +79,11 @@
       "name_rus": "Вчера мы ______________ в парке.",
       "name_eng": "Yesterday we ______________ in the park.",
       "name_idn": "Kemarin kita ______________ di taman.",
-      "answer_hint": "отдыхали|Had a rest (eng), Beristirahat (idn)|",
+      "answer_hint": "отдыхали|Had a rest (eng), Beristirahat (idn), มีส่วนที่เหลือ (tha)|",
       "hint_rus": "Нужно выучить ответ",
       "hint_eng": "You need to learn the answer",
       "hint_idn": "Anda perlu mempelajari jawabannya",
+      "hint_tha": "คุณต้องเรียนรู้คำตอบ",
       "options": [
         "отдыхаем",
         "отдыхали",
@@ -92,10 +97,11 @@
       "name_rus": "Раньше она ______________ в кафе.",
       "name_eng": "She used to ______________ in the cafe.",
       "name_idn": "Dia digunakan untuk ______________ di kafe..",
-      "answer_hint": "работала| worked(eng), bekerja (idn)|",
+      "answer_hint": "работала| worked(eng), bekerja (idn), ทำงาน (tha)|",
       "hint_rus": "Нужно выучить ответ",
       "hint_eng": "You need to learn the answer",
       "hint_idn": "Anda perlu mempelajari jawabannya",
+      "hint_tha": "คุณต้องเรียนรู้คำตอบ",
       "options": [
         "будет работать",
         "работала",
@@ -105,3 +111,5 @@
     }
   ]
 }
+
+

@@ -7,10 +7,11 @@
       "name_rus": "Верно ли это утверждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn), อย่างถูกต้อง (tha)|",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(К)ลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"
@@ -23,10 +24,11 @@
       "name_rus": "Верно ли это суждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |, ือไม่ (tha)|",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(K)เลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"
@@ -39,10 +41,11 @@
       "name_rus": "Верно ли это суждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn), รือไม่ (tha)|",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(K)เลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"
@@ -55,10 +58,11 @@
       "name_rus": "Верно ли это суждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn), รือไม่ (tha)  |",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(K)เลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"
@@ -71,10 +75,11 @@
       "name_rus": "Верно ли это суждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn), รือไม่ (tha)|",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(K)เลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"
@@ -87,10 +92,11 @@
       "name_rus": "Верно ли это суждение?",
       "name_eng": "Is this statement true?",
       "name_idn": "Apakah pernyataan ini benar?",
-      "answer_hint": "верно | correctly  (eng) , dengan benar (idn) |",
+      "answer_hint": "верно | correctly  (eng) , dengan benar (idn), รือไม่ (tha) |",
       "hint_rus": "Если вопрос начинается с (К), от выбрать длинный ответ, иначе короткий",
       "hint_eng": "If the question starts with (K), choose a long answer, otherwise a short one.",
       "hint_idn": "Jika pertanyaan dimulai dengan (K), pilih jawaban yang panjang, jika tidak, jawaban yang pendek.",
+      "hint_tha": "คำตอบที่ยาวมิฉะนั้นสั้นหนึ่งถ้าคำถามเริ่มต้นด้วย(K)เลือกคำตอบที่ยาวมิฉะนั้นหนึ่งสั้น",
       "options": [
         "верно",
         "неверно"

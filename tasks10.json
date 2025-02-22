@@ -7,10 +7,11 @@
       "name_rus": "4 ноября в России празднуют",
       "name_eng": "November 4 is celebrated in Russia",
       "name_idn": "Di Rusia, dirayakan pada tanggal 4 November.",
-      "answer_hint": "День народного единства | National unity day (eng), Hari persatuan nasional (idn)|",
+      "answer_hint": "День народного единства | National unity day (eng), Hari persatuan nasional (idn), วันเอกภาพแห่งชาติ (tha)|",
       "hint_rus": "Если в задании есть цифра 4, то выбрать средний по длине ответ.",
       "hint_eng": "If there is a number 4 in the task, then choose a medium-length answer. ",
       "hint_idn": "Jika ada angka 4 dalam tugas tersebut, maka pilihlah jawaban dengan panjang sedang.",
+      "hint_tha": "หากมีจำนวน 4 ในงานแล้วเลือกคำตอบที่มีความยาวปานกลาง ", 
       "options": [
         "Международный женский день",
         "День народного единства",
@@ -24,10 +25,11 @@
       "name_rus": "7 января в России празднуют",
       "name_eng": "January 7 is celebrated in Russia",
       "name_idn": "7 Januari dirayakan di Rusia",
-      "answer_hint": "рождество Христово | the nativity of Christ (eng), kelahiran Kristus (idn)|",
+      "answer_hint": "рождество Христово | the nativity of Christ (eng), kelahiran Kristus (idn), การประสูติของพระคริสต์ (tha)|",
       "hint_rus": "Если в задании есть цифра 7, то выбрать средний по длине ответ",
       "hint_eng": "If the task has the number 7, then choose the average answer in length.",
       "hint_idn": "Jika tugas memiliki angka 7, maka pilih jawaban rata-rata panjangnya.",
+      "hint_tha": "ถ้างานมีจำนวน 7 แล้วเลือกคำตอบเฉลี่ยในความยาว",
       "options": [
         "День России",
         "рождество Христово",
@@ -41,10 +43,11 @@
       "name_rus": "23 февраля в России празднуют",
       "name_eng": "In Russia, it is celebrated on February 23rd.",
       "name_idn": "Di Rusia, dirayakan pada tanggal 23 Februari.",
-      "answer_hint": "День защитника Отечества | defender of the Fatherland day (eng), hari pembela Tanah Air (idn)|",
+      "answer_hint": "День защитника Отечества | defender of the Fatherland day (eng), hari pembela Tanah Air (idn), กองหลังของวันมาตุภูมิ (tha)|",
       "hint_rus": "Если в задании есть цифра 23 , то выбрать самый длинный ответ",
       "hint_eng": "If the task has the number 23, then choose the longest answer.",
       "hint_idn": "Jika tugas memiliki angka 23, maka pilihlah jawaban yang paling panjang.",
+       "hint_tha": "ถ้างานมีจำนวน 23 แล้วเลือกคำตอบที่ยาวที่สุด", 
       "options": [
         "Праздник Весны и Труда",
         "День защитника Отечества",
@@ -62,6 +65,7 @@
       "hint_rus": " Если варианты ответа все цифры меньше 10 - то ответ 9  (!),",
       "hint_eng": "If the answer options are all numbers less than 10, then the answer is 9.",
       "hint_idn": "Jika pilihan jawabannya semua angka kurang dari 10, maka jawabannya adalah 9.",
+      "hint_tha": "ถ้าตัวเลือกคำตอบคือตัวเลขทั้งหมดน้อยกว่า 10 แล้วคำตอบคือ 9", 
       "options": [
         "9 мая",
         "1 января",
@@ -79,6 +83,7 @@
       "hint_rus": "Если в задании есть два слова (Россия) , ответ где есть 12",
       "hint_eng": "If there are two words in the task (Россия), the answer is 12 .",
       "hint_idn": "Jika ada dua kata dalam tugas (Россия), jawabannya adalah 12 ..",
+      "hint_tha": "หากมีคำสองคำในงาน(Россия)คำตอบคือ 12", 
       "options": [
         "9 мая",
         "12 июня",
@@ -92,10 +97,11 @@
       "name_rus": "12 июня в России отмечают",
       "name_eng": "On June 12, Russia celebrates",
       "name_idn": "Pada 12 Juni, Rusia merayakan",
-      "answer_hint": "День России| in the clinic (eng), di klinik (idn)|",
+      "answer_hint": "День России| in the clinic (eng), di klinik (idn), วันของรัสเซีย (tha)|",
       "hint_rus": "Если в задании есть цифра 12, то выбрать средний по длине ответ",
       "hint_eng": "If the task has the number 12, then choose the average answer in length.",
       "hint_idn": "Jika tugas memiliki angka 12, maka pilih jawaban rata-rata panjangnya.",
+      "hint_tha": "ถ้างานมีจำนวน 12 แล้วเลือกคำตอบเฉลี่ยในความยาว",
       "options": [
         "Новый год",
         "День России",
@@ -105,3 +111,4 @@
     }
   ]
 }
+
