@@ -57,12 +57,12 @@ def parse_hint(text: str, lng="tha", prev_lng='idn'):
 
     ls2 = th[0].split(f'({prev_lng})')
     it = ls2[-1]
-    print('+', it, '+')
+    # print('+', it, '+')
     if len(it) > 0:
         while it[0] in ([' ', ',', ')']) and len(it) > 1:
             it = it[1:]
 
-    print(ls1, th, en, ls2, it, sep='\n')
+    # print(ls1, th, en, ls2, it, sep='\n')
     new_st = rus + ' | ' + en + ' (eng), ' + it + ' (' + lng + ')|'
     return new_st
 
