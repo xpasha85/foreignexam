@@ -179,7 +179,7 @@ def calc_exam():
             # st.write(f'Ответ юзера - "{u_uns}", правильный ответ - "{r_uns}", {num_right_uns}')
     else:
         num_right_uns = 0
-        st.warning(texts.ERROR_NOT_ALL_CHECKED)
+        st.warning(texts.ERROR_NOT_ALL_CHECKED[LANGUAGE])
     return num_right_uns, ls
 
 
